@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\bin\Debug\TelefonKıtapcasıOrnek.exe.config
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\bin\Debug\TelefonKıtapcasıOrnek.exe
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\bin\Debug\TelefonKıtapcasıOrnek.pdb
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.Form1.resources
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.Properties.Resources.resources
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.exe
+C:\Users\User\source\repos\TelefonKıtapcasıOrnek\TelefonKıtapcasıOrnek\obj\Debug\TelefonKıtapcasıOrnek.pdb
